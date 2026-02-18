@@ -17,3 +17,9 @@ My stack includes a mix of industry-relevant and open-source tools such as **Waz
 I create **clear, concise reports and findings**, rooted in structured evidence and aligned with frameworks like MITRE ATT&CK — this portfolio reflects not only what I *can use,* but what I *can do.*
 
 Take a look around — from lab setups to case reports — and you’ll see not just *what tools I know*, but *how I apply them* to detect, investigate, and defend.  
+
+#🔥 Featured Projects 🔥
+
+##My Complete SOC Analyst Home Lab Build
+I designed and deployed a fully isolated Security Operations Center (SOC) home lab that mirrors the workflows and tooling used in modern enterprise security operations. This environment is intended for hands-on practice with both offense (attack simulation) and defense (detection, analysis, and response), giving me practical experience that goes far beyond theoretical study.
+###[View the SOC Lab Repository](https://github.com/aganrustemi-cyb/cyber-soc-lab)
