@@ -14,6 +14,6 @@ In this portfolio you’ll see:
 
 My stack includes a mix of industry-relevant and open-source tools such as **Wazuh SIEM, TheHive & Cortex, OPNsense firewall, MISP threat intel, and CrowdStrike Falcon EDR** — all wired together to replicate enterprise security operations.  
 
-I create **clear, concise reports and findings**, rooted in structured evidence and aligned with frameworks like MITRE ATT&CK — this portfolio reflects not only what I *can use,* but what I *can do.*:contentReference[oaicite:1]{index=1}
+I create **clear, concise reports and findings**, rooted in structured evidence and aligned with frameworks like MITRE ATT&CK — this portfolio reflects not only what I *can use,* but what I *can do.*
 
 Take a look around — from lab setups to case reports — and you’ll see not just *what tools I know*, but *how I apply them* to detect, investigate, and defend.  
