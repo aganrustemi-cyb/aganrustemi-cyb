@@ -25,3 +25,9 @@ Take a look around — from lab setups to case reports — and you’ll see not 
 ### [View the SOC Lab Repository](https://github.com/aganrustemi-cyb/cyber-soc-lab)
 I designed and deployed a fully isolated Security Operations Center (SOC) home lab that mirrors the workflows and tooling used in modern enterprise security operations. This environment is intended for hands-on practice with both offense (attack simulation) and defense (detection, analysis, and response), giving me practical experience that goes far beyond theoretical study.
 
+## Phishing Email Analyzer — SOC Triage Automation Tool
+
+### [View the Phishing Analyzer Repository](https://github.com/aganrustemi-cyb/phishing_analyzer)
+
+I built a Python CLI tool that automates the full phishing email triage pipeline a Tier 1 SOC analyst performs manually on every alert. The tool parses raw .eml files, cross-references all IPs and URLs against VirusTotal and AbuseIPDB, maps every finding to the MITRE ATT&CK framework, and uses LLaMA 3.1 via Groq to auto-generate a complete incident report — compressing a 30-minute manual process into a single command.
+
